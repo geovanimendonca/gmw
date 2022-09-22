@@ -1,0 +1,19 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+  
+a {
+    color: rgb(0, 112, 173);
+    font-size: 18px;
+    text-decoration: none;
+}
+  
+a:hover {
+    opacity: 1;
+}
+  
+main {
+    text-align: center;
+}

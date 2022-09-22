@@ -1,0 +1,3 @@
+vermelho  206 52 62
+amarelo   245 175 64
+azul	  34 48 95
